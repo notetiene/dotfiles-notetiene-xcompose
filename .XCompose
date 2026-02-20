@@ -6,3 +6,12 @@ include "%H/.xcompose.d/dotXCompose"
 
 # See: https://wiki.debian.org/XCompose
 # https://www.reddit.com/r/linux/comments/1dl4vg/ing_my_cool_xcompose_files/
+
+<Multi_key> <dollar> <slash>	:	"✔️"  # Heavy Check Mark
+<Multi_key> <dollar> <X>  		:	"❌"  # Cross Mark
+<Multi_key> <dollar> <exclam>	:	"⚠️"  # Warning Sign
+<Multi_key> <c> <m>             :   "```" # Markdown code
+
+# TODO:
+# "×" multiply # MULTIPLICATION SIGN
+# "÷" division # DIVISION SIGN
